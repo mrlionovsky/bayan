@@ -1,0 +1,29 @@
+A:Link{ Color: #202703; Text-decoration: underline}
+A:Visited{ Color: #202703; Text-decoration: underline}
+A:Hover{ Color: black; Text-decoration: none}
+
+img {
+border: none
+}
+
+td{
+border: 2px;
+border-color: #75826a;
+border-style: solid;
+}
+
+.main { 
+border: 2px;
+border-color: #75826a;
+border-style: solid;
+}
+
+.text {
+    border-radius: 3px;
+    background: #F3F3F3 none repeat scroll 0% 0%;
+    border: 1px dotted #BBB;
+    /* font-family: "Monaco","Liberation Mono","Droid Sans Mono","Ubuntu Mono","Lucida Console","Helvetica Neue",monospace; */
+    padding: 7px 8px 5px;
+    font-size: 12pt;
+    line-height: 1.3em;
+}
